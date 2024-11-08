@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'UltraKill';
+    src: url(VCR_OSD_MONO_1.001.ttf);
+}
+body {
+    background-image: url(SandboxInfoboxV2.png);
+    background-size: cover;
+}
+h1 {border-style: ridge;
+    border-width: 5px;
+    border-radius: 0.5px;
+    border-color: #820000;
+background-color: rgba(0, 0, 0, 0.85);
+color: rgb(255, 0, 0);
+font-family: 'UltraKill';
+font-size: 40px;
+text-align: center;}
+p{border: 5px ridge;
+    border-width: 5px;
+    border-radius: 0.5px;
+    border-color: rgb(130, 0, 0);
+    width: 450px;
+    height: 125px;
+background-color: rgba(0, 0, 0, 0.85);
+margin: 20px auto 0px;
+color: rgb(255, 0, 0);
+font-family: 'UltraKill';
+font-size: 25px;}
+img{border-style: ridge;
+    border-width: 5px;
+    border-radius: 0.5px;
+    border-color: rgb(130, 0, 0);
+    display: block;
+    margin-top: 75px;
+margin-left: auto;
+margin-right: auto;}
+
+footer {font-family: 'UltraKill';
+margin-top: 125px;
+text-decoration: underline;}
